@@ -1,0 +1,76 @@
+
+.fondo_header, .misProyectos, footer{
+    background: linear-gradient(to bottom right, #09025C 0%, #270166 50%, #5623AB 100%);
+}
+.imgLogo{
+    width: 10%;
+}
+.navbar-brand, .nav-link{
+    color: white;
+}
+.misProyectos_{
+    color: #09025C;
+    background-color: white;
+    border-radius: 20px;
+}
+.welcome{
+    font-size: 3.5rem;
+    color: white;
+    width: 60%;
+}
+.imgLogoGrande{
+    width: 80%;
+}
+.fondo{
+    border-radius: 20px;
+    background-color: #270166;
+} 
+.alejaDev{
+    border-radius: 20px;
+    width: 60%;
+}
+.sectionHero{
+    border-radius: 30px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+ul li {
+    font-size: 95%;
+}
+.misProyectos h2{
+    color: white;
+}
+.box{
+    background-color: white;
+    border-radius: 20px;
+}
+.img_box{
+    width: 100%;
+}
+.box p{
+    font-size: 80%;
+}
+.titu_proyectos{
+    border-radius: 20px 20px 0 0 ;
+    color: white;
+    background-color: #0FB73E;
+}
+input, textarea{
+    outline: none;
+    border: none;
+}
+.inputs{
+    border-radius: 20px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.sent{
+    border-radius: 20px;
+    background-color: #09025C;
+    color: white;
+}
+footer{
+    color: white;
+}
+form{
+    border: 1px solid #09025C;
+    border-radius: 20px;
+}
