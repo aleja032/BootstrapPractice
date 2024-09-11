@@ -3,10 +3,13 @@
     background: linear-gradient(to bottom right, #09025C 0%, #270166 50%, #5623AB 100%);
 }
 .imgLogo{
-    width: 10%;
+    width: 4rem;
 }
 .navbar-brand, .nav-link{
     color: white;
+}
+.navbar-nav {
+    width: 55%;
 }
 .misProyectos_{
     color: #09025C;

@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 99.9vh;
+    background-color: #20262C;
+    color: white;
+}
+
+.libros_logo{
+    width: 4rem;
+}
+.article{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+
+}
+
+.a{
+    text-decoration: none;
+    color: white;
+}
+.nav-link:hover{
+    color: rgb(220, 219, 219);
+    background-color: #858585;
+    border-radius: 20px;
+}
+.navbar-brand{
+    color: white;
+}
+.navbar-brand:hover{
+    color: rgb(220, 219, 219);
+}
+.box{
+   border: 3px solid #4BB2C4; 
+   border-radius: 20px;
+   background-color: rgba(217, 217, 217, 0.16); 
+
+}
+.img_article{
+    width: 12rem;
+}
+.description{
+    font-size: 85%;
+}
+.read{
+    border: 1px solid;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+.box_aboutme{
+    border: 3px solid #4BB2C4;
+    background-color: rgba(217, 217, 217, 0.16); 
+    border-radius: 20px;
+    width: 65%;
+}
+.blue-background{
+    background-color: #4BB2C4;
+    border-radius: 20px;
+    height: 15rem;
+    width: 70%;
+}
+.img-owner{
+    position: absolute;
+    width: 18rem;
+    height: 32%;
+    background-color: white;
+    border-radius: 20px;
+}
+.opinion{
+    background-color: #4BB2C4;
+}
+.item-opinon{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    /* height: 45%; */
+}
+textarea{
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    width: 90%;
+    /* height: 90%; */
+}
+.background-black{
+    background-color: #20262C;
+    border: none;
+    color: white;
+    width: 25%;
+    height: 28%;
+    border-radius: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+@media (max-width:576px) {
+    .box_aboutme{
+        width: 90%;
+    }
+    .blue-background{
+        width: 19rem;
+    }
+    .img-owner{
+        width: 18rem;
+    }
+    .opinion{
+        flex-direction: column;
+    }
+}           
