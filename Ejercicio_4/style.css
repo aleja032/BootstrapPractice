@@ -1,0 +1,66 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 99.5vh;
+    font-family: "poppins", sans-serif !important;
+}
+header{
+    /* height: 100vh !important; */
+    background-color: #041334;
+}
+.name-company{
+    font-size: 1.6rem !important ;
+    font-weight: bolder;
+    color: #00ffff !important;
+}
+.nav-link{
+    font-size: 1.1rem !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.nav-link.active, .nav-link:hover{
+    color: #00ffff !important;
+}
+.cuestom-tittle-header{
+    font-size: 3.7rem;
+    font-weight: 700;
+}
+.decription-header{
+    font-size: 1.2rem;
+}
+input{
+    background-color: transparent;
+    border: 2px solid #00ffff;
+}
+button{
+    background-color: #00ffff;
+    color: #041334;
+    font-size: 1.1rem !important;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px !important;
+}
+main{
+    background-color: #04112f !important;
+}
+.custom-title-hero{
+    font-size: 3rem;
+    font-weight: 500;
+}
+.img_icon{
+    width: 3rem;
+}
+strong{
+    font-size: 1.2rem;
+}
+.value{
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+.uparrow{
+    color: green;
+    font-size: 1.7rem;
+}

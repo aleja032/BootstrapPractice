@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Inria Serif" !important;
+}
+body{
+    height: 99vh;
+}
+header, .hero, .testimonios, footer{
+    background-color: #080808;
+}
+.logo{
+    width: 3.7rem;
+}
+
+.custom-w-barra{
+    width: 60%;
+}
+.bg-semi-circle{
+    width: 10rem;
+    background-color: #C49E2F;
+    border-radius: 0px 0 100px ;
+}
+.nav-link{
+    color: white !important;
+    font-size: 1.1rem !important;
+}
+
+.custom-sesion{
+    background-color: white !important;
+    color: black !important;
+    border-radius: 15px;
+}
+
+/* Seccion hero */
+
+.letter-bigger{
+    font-size: 3rem;
+}
+
+.yellow{
+    color: #C49E2F;
+}
+.vela-hero{
+    width: 28rem;
+}
+.cuestom-buttom-hero{
+    background-color: #C49E2F;
+    color: white;
+    cursor: pointer;
+    border-radius: 15px;
+    border: none;
+    font-size: 1.2rem;
+}
+.cuestom-buttom-hero:hover{
+    background-color: #caaa49;
+}
+.bg-semi-circle-bottom{
+    width: 6rem;
+    height: 5.4rem;
+    background-color: #C49E2F;
+    border-radius: 100px 0px 0 ;
+    bottom: 0%;
+    right: 0%;
+}
+
+/* seccion de caracteristicas */
+
+.card{
+    width: 70%;
+    border: none !important;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 10px !important;
+}
+.vela-main{
+    width: 23rem;
+}
+.icon-caracteristicas{
+    color: #caaa49;
+}
+
+/* Testimonios */
+.star{
+    color: #F0BA1E;
+}
+.circular-img{
+    height: 5rem;
+    width: 10rem;
+    background-color: gray;
+    border-radius: 600px;
+}
+.box-testimonio{
+    border-radius: 10px;
+    background-color: white;
+}
+.title-testimonio{
+    font-size: 1.1rem;
+}
+
+/* paquetes */
+.paquete{
+    border-radius: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.paquete-title{
+    font-size: 1.1rem;
+}
+.paquete-title-main{
+    font-size: 1.2rem;
+}
+.price-main{
+    font-size: 1.6rem;  
+}
+.price{
+    font-size: 1.4rem;
+}
+.yellow-paquete{
+    color: #956F00 !important;
+}
+.comb{
+    width: 9rem;
+}
+.comb-main{
+    width: 10.5rem;
+}
+ul li{
+    font-size: 80%;
+}
+.cuestom-buttom-paquete{
+    border-radius: 10px;
+    background-color: #956F00 ;
+    width: 90%;
+    border: none;
+    color: white;
+}
+/* footer */
+
+.circular-footer{
+    width: 6rem;
+    height: 5.4rem;
+    background-color: #C49E2F;
+    border-radius: 0 0 100px 0;
+}
+.list{
+    font-size: 1.1rem;
+}
+.footer-titles{
+    font-size: 1.3rem;
+}
+.circular-footer_2{
+    width: 6rem;
+    height: 5.4rem;
+    background-color: #C49E2F;
+    border-radius: 100px 0 0px ;
+    margin-top: 15rem;
+}

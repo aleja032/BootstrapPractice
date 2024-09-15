@@ -27,5 +27,8 @@ button{
     background-color: white;
 }
 .articulo{
-    width: 40rem;
+    width: 50rem;
+}
+main{
+    width: 90%;
 }
